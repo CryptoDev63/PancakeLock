@@ -1,4 +1,4 @@
-https://github.com/CryptoDev63/PancakeLock/blob/main/pancake_lock.png
+![PancakeLock](https://github.com/CryptoDev63/PancakeLock/blob/main/pancake_lock.png?raw=true)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
